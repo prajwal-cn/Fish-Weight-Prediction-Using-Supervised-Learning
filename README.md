@@ -1,5 +1,8 @@
 # **Fish Price Prediction**
 
+![image](https://user-images.githubusercontent.com/127007794/229721070-66f4e9d0-a0de-4841-b25a-b5e53ae481f6.png)
+
+
 This project is a machine learning (ML) project that predicts the price of fish based on various input features. The purpose of this project is to develop an accurate ML model that can predict the price of fish based on their physical measurements and market conditions.
 
 ## **Data**
