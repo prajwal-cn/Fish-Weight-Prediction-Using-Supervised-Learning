@@ -3,11 +3,11 @@
 ![image](https://user-images.githubusercontent.com/127007794/229721070-66f4e9d0-a0de-4841-b25a-b5e53ae481f6.png)
 
 
-This project is a machine learning (ML) project that predicts the price of fish based on various input features. The purpose of this project is to develop an accurate ML model that can predict the price of fish based on their physical measurements and market conditions.
+This project is a machine learning (ML) project that predicts the weight of fish based on various input features. The purpose of this project is to develop an accurate ML model that can predict the weight of fish based on their physical measurements.
 
 ## **Data**
 
-The raw data used for this project contains information on the price of different types of fish and various features that affect their market value. The data was preprocessed to clean and encode the variables and split into training and testing sets.
+The raw data used for this project contains information on the weight of different types of fish and various features that affect their weight. The data was preprocessed to clean and encode the variables and split into training and testing sets.
 
 ## **Model**
 
