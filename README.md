@@ -1,4 +1,4 @@
-# **Fish Price Prediction**
+# **Fish Weight Prediction**
 
 ![image](https://user-images.githubusercontent.com/127007794/229721070-66f4e9d0-a0de-4841-b25a-b5e53ae481f6.png)
 
